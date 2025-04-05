@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+opencv-python
+torch
+mediapipe
+ultralytics
+google-generativeai
+python-dotenv
